@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CourseP3\bin\Debug\net9.0\CourseP3.exe
+C:\Users\PC\source\repos\CourseP3\bin\Debug\net9.0\CourseP3.deps.json
+C:\Users\PC\source\repos\CourseP3\bin\Debug\net9.0\CourseP3.runtimeconfig.json
+C:\Users\PC\source\repos\CourseP3\bin\Debug\net9.0\CourseP3.dll
+C:\Users\PC\source\repos\CourseP3\bin\Debug\net9.0\CourseP3.pdb
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\CourseP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\CourseP3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\CourseP3.AssemblyInfo.cs
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\CourseP3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\CourseP3.dll
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\refint\CourseP3.dll
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\CourseP3.pdb
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\CourseP3.genruntimeconfig.cache
+C:\Users\PC\source\repos\CourseP3\obj\Debug\net9.0\ref\CourseP3.dll
