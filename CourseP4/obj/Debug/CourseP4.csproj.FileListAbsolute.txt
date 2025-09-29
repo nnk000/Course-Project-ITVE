@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CourseP4\bin\Debug\CourseP4.exe.config
+C:\Users\PC\source\repos\CourseP4\bin\Debug\CourseP4.exe
+C:\Users\PC\source\repos\CourseP4\bin\Debug\CourseP4.pdb
+C:\Users\PC\source\repos\CourseP4\obj\Debug\CourseP4.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CourseP4\obj\Debug\CourseP4.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CourseP4\obj\Debug\CourseP4.exe
+C:\Users\PC\source\repos\CourseP4\obj\Debug\CourseP4.pdb
